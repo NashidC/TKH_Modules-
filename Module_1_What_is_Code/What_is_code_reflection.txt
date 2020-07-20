@@ -1,0 +1,36 @@
+1. In your own words, what is a computer really doing whenever you type a letter on a keyboard?
+(150 words max)
+	When you type a letter on your keyboard, it is interpreted as a code 
+and sends a signal to the computer that will then eventually be a letter on your screen. The different parts of the computer work together to make this possible. Every key has a different signal that it corresponds to. The varying computer parts work together to determine what font to use, how big or small the letter is, as well as where it should appear. 
+
+2. In your own words, how do computers use input and output to create experiences? (250 words max)
+	Computers use input and output to determine how code is read and will function. When you write code, a computer takes it in character by character and determines an output. Developers create different experiences through UI and UX, it also depends on their goal for software. There are numerous ways we can input things in a computer today, we have the keyboard, touch screen, mobile phones and even voice recognition. All of these technologies create a different experience catered to each user. 
+	
+
+3. Explain why software products are essentially “infinitely reproducible nothings.” (150 words max)
+
+4. Explain in your own words how code becomes software. (150 words max)
+	First the developer will have to have an IDE or a text editor that allows code. Then the code is written line by line. After this the code will have to be compiled in order to see if it will run. Bugs are then checked and the code will go into review and needs to be tested. As soon is the code is good to go it is then uploaded to a host server and will be live. 
+
+5. Explain “algorithms” in your own words. (150 words max)
+	An algorithm is a set of programming steps that is written and intended to create an optimal solution. There are different types of algorithms. Some have to do with image processing or storing data. There are also certain algorithms are well known by the computer science community such as Dijkstra and Euclid. Some are built into libraries where as others you can write yourself. 
+
+6. Explain the DRY principle. (100 words max)
+	The DRY principle stands for "Don't Repeat Yourself." The purpose of this is that you shouldn't be writing redundant often, you should have code that optimizes a process so that you don't have to do it manually or create a reusable function. 
+
+7. In your own words, what is object-oriented programming? (100 words max)
+	Object oriented programming is a  model for software design. It is when objects in code can contain data with the use of properties and methods. It is intended to help better organize code. Object oriented programming makes objects interact with one another. This programming approach is best for large and complex programs. 
+
+8. In your own words explain data and how it relates to code. (100 Words max)
+	Data relates to code because it is always been stored, processed and parsed through functions and classes within a program. Data can rage from something as small as assigning a name to a variable to something as large as an entire database for a store inventory. It also relates to code in the sense that users are constantly entering data on mobile apps and websites--which means some data needs to be heavily secure. 
+
+9. What is a framework? (150 words max)
+	A framework is a supporting structure that helps write code a little more easier. There are a variety of frameworks and they differ depending on their use. Frameworks make coding easier in a sense. It is a platform that allows developers to build programs for specific reason. Frameworks can be built on top of with code and modified.
+
+10. What is debugging? (150 words max)
+	Debugging is when you write code, try to compile it and get an error--more specifically it is fixing those errors no matter how big or small. Sometimes in applications you can see an error being made and trace it by using an IDE to debug the problem. You want to make sure your program runs smoothly and doesn't crash before it is deployed to pubic users. 
+
+11. Now, with more of an understanding of what code is, why do you want to learn how to code?
+(500 words max)
+	I want to learn how to code because technology has fascinated me since I was a kid. I have an interest in both hardware and software but I want to learn more about software because these skills are transferrable and necessary in every single industry. The entire world runs on software. I started off college as a computer science major and did that for 3 years before going on a leave. Most the coding that I know is self taught through online resources. However since going on leave I haven't worked out my programming brain and felt as though I've forgotten a lot. I also want to learn in a classroom environment where there are mentors and tutors that can help 1 on 1 when necessary--as opposed to a 100 student classroom lecture. 
+	The biggest reason I want to learn how to code is because I want to make the world a better place. I want to create software that can revolutionize the potential future. I want to start with healthcare because I feel as though software for patients needs to be updated, and I'm always sick. Despite living in a technologically booming age we still check in and create appointments with people. Once you're in the waiting room there's no telling how long before a nurse comes to see you. Once a doctor diagnoses you, sometimes you want more information on the condition and it isn't available at the hospital. Additionally many people are given medication without knowing what each medication does, how it interacts with other medicine and the side effects. From my experience I feel theres a lot of work to be done. I want to serve as the bridge between healthcare and technology. Eventually I would like to create a universal system for healthcare tech. Half the world is technologically advanced while the other half is tech illiterate. To help society progress more rapidly we have to incorporate technology as much as possible. 
