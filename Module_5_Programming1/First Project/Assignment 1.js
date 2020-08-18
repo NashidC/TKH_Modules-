@@ -1,4 +1,4 @@
-// codepoen link: https://codepen.io/nashidc/pen/mdPEXeP
+// https://codepen.io/nashidc/pen/mdPEXeP
 
 
 //collects user data through prompts
