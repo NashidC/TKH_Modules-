@@ -1,0 +1,36 @@
+<!-- https://codepen.io/nashidc/pen/GRZOvWV-->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <title>Things To Do</title>
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="header">
+        <h2 style="margin: 5px;">My To Do List</h2>
+        <input type="text" id="my-input" placeholder="Title..." />
+        <span onclick="newElement()" class="add-btn">Add</span>
+      </div>
+
+      <ul id="my-ul">
+        <li class="checked">Submit TKH Module 6</li>
+        <li>Do online tech training for work</li>
+        <li>Review coding concepts</li>
+        <li class="checked">Eat Dinner</li>
+        <li>Start Module 7</li>
+
+      </ul>
+    </div>
+
+    <button type="button" id="clear-list" onclick="removeAll()">
+      Clear Items
+    </button>
+
+    <script type="text/javascript" src="list.js"></script>
+  </body>
+</html>
